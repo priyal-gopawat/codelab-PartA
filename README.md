@@ -20,3 +20,5 @@
 
 
 ![2..png](https://github.com/priyal-gopawat/Storage/blob/main/Code%20Labs/Part%20A/2..png)
+
+Download apk from [here](https://github.com/priyal-gopawat/codelab-PartA/releases/download/1.0/app-debug.apk)
